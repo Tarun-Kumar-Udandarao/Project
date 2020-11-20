@@ -1,4 +1,10 @@
 main()
 {
 printf("Hello");
+hello();
+}
+
+hello()
+{
+printf("Hi");
 }
